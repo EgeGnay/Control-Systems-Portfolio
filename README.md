@@ -24,14 +24,7 @@ This repository showcases my practical experience and theoretical depth in advan
 * **[Technical Project Report (PDF)](Modeling%20and%20Control%20of%20a%203-DOF.pdf)**
 * **[MATLAB Files](Robotics%20Control.zip)**
 
-### 3. Self-Balancing Ballbot: Physical System Integration
-
-* **Objective:** Design and build a fully physical system capable of balancing on a spherical surface.
-* **Technical Focus:** **Closed-loop control** implementation and high-speed **Sensor Fusion**.
-* **Hardware:** Integrated **IMU sensors**, motor drivers, and feedback control architecture.
-* **Programming:** Control logic primarily developed using **C** within the **Arduino** environment.
-
-### 4. MHD Thruster - Electromagnetic Fluid Propulsion (Design & Modeling)
+### 3. MHD Thruster - Electromagnetic Fluid Propulsion (Design & Modeling)
 
 * **Objective:** Design and construct a functional, no-moving-parts underwater propulsion system based on electromagnetic principles.
 * **Technical Focus:** Application and optimization of the **Lorentz Force** (F = I * L x B). **Electromagnetic Field** generation and calculation of optimal power requirements for controllable thrust.
@@ -39,13 +32,3 @@ This repository showcases my practical experience and theoretical depth in advan
 * **[Technical Project Report (PDF)](MHD%20Thruster.pdf)**
 * **[Project Images Archive](Images.zip)**
 * **[Project Videos Archive](Videos.zip)**
-
----
-
-## Technical Skills Summary
-
-| Category | Tools / Concepts | Level |
-| :--- | :--- | :--- |
-| **Control & Simulation** | **MATLAB/Simulink** (Advanced), PID, **Fuzzy Control**, **Nonlinear Control** (CTC, VSC), Dynamic Modelling | |
-| **Programming** | **Python**, **C**, Arduino | Intermediate |
-| **Robotics & Vision** | ROS, CopeliaSim, Computer Vision, Sensor/Actuator Integration | |
