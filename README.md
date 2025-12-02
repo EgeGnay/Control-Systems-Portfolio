@@ -36,7 +36,7 @@ This repository showcases my practical experience and theoretical depth in advan
 * **Design Tools:** Used **Tinkercad (CAD/Simulation)** for geometric and electrical component design and visualization. Completed theoretical calculations for system thrust and power needs.
 * **[Technical Project Report (PDF)](MHD%20Thruster.pdf)**
 * **[Project Images Archive](Images.zip)**
-* **[Simulation Video](Videos.zip)**
+* **[Project Videos Archive](Videos.zip)**
 
 ---
 
