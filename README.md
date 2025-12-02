@@ -12,6 +12,8 @@ This repository showcases my practical experience and theoretical depth in advan
 * **Technical Focus:** Implemented a **Fuzzy Logic PID Controller**.
 * **Optimization:** Successfully reduced the controller's rule base from 49 to **9 rules** to significantly enhance **computational efficiency**. This demonstrates a strong focus on real-time system performance.
 * **Validation:** System dynamics and controller performance were rigorously validated in the **MATLAB/Simulink** environment.
+* **[Technical Project Report (PDF)](Drone_Attitude_Control_Report.pdf)**
+* **[MATLAB/Simulink Files](Drone_Attitude_Control_Matlab_Files.zip)**
 
 ### 2. 3-DOF RRR Serial Manipulator: Nonlinear Dynamics & Advanced Control
 
