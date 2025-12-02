@@ -33,8 +33,8 @@ This repository showcases my practical experience and theoretical depth in advan
 * **Technical Focus:** Application and optimization of the **Lorentz Force** (F = I * L x B). **Electromagnetic Field** generation and calculation of optimal power requirements for controllable thrust.
 * **Design Tools:** Used **Tinkercad (CAD/Simulation)** for geometric and electrical component design and visualization. Completed theoretical calculations for system thrust and power needs.
 * **[Technical Project Report (PDF)](MHD%20Thruster.pdf)**
-* **[Project Images Archive]($Images.zip$)**
-* **[Simulation Video]($Videos.zip$)**
+* **[Project Images Archive](Images.zip)**
+* **[Simulation Video](Videos.zip)**
 
 ---
 
